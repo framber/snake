@@ -1,0 +1,6 @@
+C:\Users\SAD\reposit\Новая папка\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\SAD\reposit\Новая папка\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\SAD\reposit\Новая папка\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\SAD\reposit\Новая папка\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\SAD\reposit\Новая папка\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\SAD\reposit\Новая папка\Snake\Snake\obj\Debug\Snake.pdb
